@@ -34,7 +34,7 @@ Do a **SELECT** to show the content of this table.
 
 ## 2nd Part
 
-Create a new database and dump [this file](./data.sql) to start working on:
+Create a new database and use the data from [this file](./data.sql) to start working on:
 
 
  - What is the largest population size for Gabon in this dataset?
@@ -44,3 +44,7 @@ Create a new database and dump [this file](./data.sql) to start working on:
  - What is the difference in population between 2000 and 2010 in Indonesia?
 
 ***Note: it’s okay to figure out the difference by hand after pulling the correct data.***
+
+### Extra
+
+Learn to dump an extra file to your database instead of copy-pasting it and also to export your 1st exercise database to a .sql file
