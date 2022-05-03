@@ -16,7 +16,7 @@ Her birthday is May 30th, 1990.
 ​
 
 Add two new friends to the table.
-Insert an id, name, and birthday for each of them
+Insert a name, and birthday for each of them
 (name : Clara Doe / John Smith)
 ​​
 
